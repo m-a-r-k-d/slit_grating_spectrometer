@@ -2,8 +2,8 @@ Nrecords|15
 Nfields|10
 FieldWidth|18
 Show RMS when goals exist|T
-View Elevation|-9.0
-View Azimuth|-2.0
+View Elevation|14.0
+View Azimuth|160.0
 Sticky pan/zoom?|F
 Arc Segments|10
 +X|T
@@ -33,12 +33,12 @@ Refractor shading?|T
 Rays|0.5
 Surfs|1.5
 Axes|0.5
-Sticky uxcenter|242.60606080
-Sticky uycenter|6.56937849
-Sticky uzcenter|5.72974769
-Sticky uxspan|42.95673696
-Sticky uyspan|42.95673696
-Sticky uzspan|42.95673696
+Sticky uxcenter|-203.85814503
+Sticky uycenter|13.26989773
+Sticky uzcenter|-105.63815043
+Sticky uxspan|43.33972367
+Sticky uyspan|43.33972367
+Sticky uzspan|43.33972367
 Refractor connectors?|F
 Retro visible?|T
 Dotted extension %|4
@@ -195,7 +195,7 @@ No AutoLoad|F
 AutoLoad most recent|T
 Start at User Home|F
 Or most recent folder|T
-RecentFolder|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\SPECTRO2_mjd_all_wave_circular.ray
+RecentFolder|C:\Projects\slit_grating_spectrometer\ray_trace\B4DEMOFILES_208\208-files\GLASS_mjd.MED
 Allow MacOS icons|F
 Forbid MacOS icons|T
 Show file paths?|F
@@ -280,32 +280,32 @@ Number of circles|1
 Start at row|1
 ray starts?|T
 or ray goals?|F
-RO0|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\SPECTRO2_mjd_add_grating_smaller.OPT
-RO1|C:\Users\markd\Documents\SPECTRO2_mjd_add_grating.OPT
-RO2|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\SPECTRO2_mjd_add_camera_lens.OPT
-RO3|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\SPECTRO2_mjd_collimation_check.OPT
-RO4|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\SPECTRO2_mjd_collimated_focus.OPT
-RO5|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\SPECTRO2_mjd_collimation.OPT
-RO6|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\SPECTRO2_mjd.OPT
-RO7|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\Play_mjd.OPT
-RO8|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\LENS.OPT
-RO9|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\SPECTRO1_mjd.OPT
-RR0|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\SPECTRO2_mjd_all_wave_circular.ray
-RR1|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\SPECTRO2_mjd_center_circular.ray
-RR2|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\SPECTRO2_mjd_red_circular.ray
-RR3|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\SPECTRO2_mjd_center.ray
-RR4|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\LENS_mjd.RAY
-RR5|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\SPECTRO2_mjdaaa_center.ray
-RR6|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\LENS.RAY
-RR7|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\SPECTRO1_mjd_red&blue.ray
-RR8|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\SPECTRO1_mjd_red.ray
-RR9|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\SPECTRO1_mjd_blue.ray
-RM0|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\GLASS_mjd.MED
-RM1|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\GLASS.MED
-RM2|C:\Users\markd\Documents\GLASS_mjd.MED
-RM3|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\PrismCB.MED
-RM4|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\Schott.MED
-RM5|
+RO0|C:\Users\markd\Documents\SPECTRO3_mjd_add_grating_smaller.OPT
+RO1|C:\Projects\slit_grating_spectrometer\ray_trace\B4DEMOFILES_208\208-files\SPECTRO2_mjd_add_grating_smaller.OPT
+RO2|C:\Projects\slit_grating_spectrometer\ray_trace\B4DEMOFILES_208\208-files\SPECTRO2_mjd_add_camera_lens.OPT
+RO3|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\SPECTRO2_mjd_add_grating_smaller.OPT
+RO4|C:\Users\markd\Documents\SPECTRO2_mjd_add_grating.OPT
+RO5|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\SPECTRO2_mjd_add_camera_lens.OPT
+RO6|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\SPECTRO2_mjd_collimation_check.OPT
+RO7|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\SPECTRO2_mjd_collimated_focus.OPT
+RO8|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\SPECTRO2_mjd_collimation.OPT
+RO9|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\SPECTRO2_mjd.OPT
+RR0|C:\Projects\slit_grating_spectrometer\ray_trace\B4DEMOFILES_208\208-files\SPECTRO2_mjd_center_circular.ray
+RR1|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\SPECTRO2_mjd_all_wave_circular.ray
+RR2|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\SPECTRO2_mjd_center_circular.ray
+RR3|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\SPECTRO2_mjd_red_circular.ray
+RR4|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\SPECTRO2_mjd_center.ray
+RR5|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\LENS_mjd.RAY
+RR6|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\SPECTRO2_mjdaaa_center.ray
+RR7|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\LENS.RAY
+RR8|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\SPECTRO1_mjd_red&blue.ray
+RR9|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\SPECTRO1_mjd_red.ray
+RM0|C:\Projects\slit_grating_spectrometer\ray_trace\B4DEMOFILES_208\208-files\GLASS_mjd.MED
+RM1|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\GLASS_mjd.MED
+RM2|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\GLASS.MED
+RM3|C:\Users\markd\Documents\GLASS_mjd.MED
+RM4|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\PrismCB.MED
+RM5|C:\Projects\BeamFour-208\B4DEMOFILES_208\208-files\Schott.MED
 RM6|
 RM7|
 RM8|
