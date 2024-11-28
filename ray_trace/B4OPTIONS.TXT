@@ -2,8 +2,8 @@ Nrecords|15
 Nfields|10
 FieldWidth|18
 Show RMS when goals exist|T
-View Elevation|14.0
-View Azimuth|160.0
+View Elevation|5.0
+View Azimuth|-4.0
 Sticky pan/zoom?|F
 Arc Segments|10
 +X|T
@@ -33,12 +33,12 @@ Refractor shading?|T
 Rays|0.5
 Surfs|1.5
 Axes|0.5
-Sticky uxcenter|-203.85814503
-Sticky uycenter|13.26989773
-Sticky uzcenter|-105.63815043
-Sticky uxspan|43.33972367
-Sticky uyspan|43.33972367
-Sticky uzspan|43.33972367
+Sticky uxcenter|119.07863932
+Sticky uycenter|-6.19386123
+Sticky uzcenter|-43.00358590
+Sticky uxspan|86.67944733
+Sticky uyspan|86.67944733
+Sticky uzspan|86.67944733
 Refractor connectors?|F
 Retro visible?|T
 Dotted extension %|4
