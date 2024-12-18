@@ -11,4 +11,4 @@ One of the parts is printed with the very fine "telescope" threads. It's the "in
 
 The Sol'Ex has the ability to focus the collimator lens on the slit and also focus the camera lens. I think that I can use the same focus tube and lens mount that is used in that instrument for mine.
 
-![image info] (./pictures/3d_printed_parts.webp)
+![](./pictures/3d_printed_parts.webp)
