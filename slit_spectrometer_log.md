@@ -12,3 +12,6 @@ One of the parts is printed with the very fine "telescope" threads. It's the "in
 The Sol'Ex has the ability to focus the collimator lens on the slit and also focus the camera lens. I think that I can use the same focus tube and lens mount that is used in that instrument for mine.
 
 ![](./pictures/3d_printed_parts.webp)
+
+12-21-24
+Focusing the camera lens in the design of this spectrometer is more difficult that the Sol'Ex because the surplus lens I found for it is only 50mm focal length. It would be difficult to fit a helical focuser in this design look they do for the Sol'Ex. I'm designing a 3d printed focuser to do this. The idea is to use the tube-within-a-tube focuser design, but just use a screw to adjust the position - instead of a rack and pinion or other type of mechanism.
