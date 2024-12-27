@@ -15,10 +15,17 @@ The Sol'Ex has the ability to focus the collimator lens on the slit and also foc
 
 ![](./pictures/assembled_solex.png)
 
-12-21-24
+12-21-24 
+
 Focusing the camera lens in the design of this spectrometer is more difficult that the Sol'Ex because the surplus lens I found for it is only 50mm focal length. It would be difficult to fit a helical focuser in this design look they do for the Sol'Ex. I'm designing a 3d printed focuser to do this. The idea is to use the tube-within-a-tube focuser design, but just use a screw to adjust the position - instead of a rack and pinion or other type of mechanism.
 
 12-26-24
+
 I've been re-designing parts for the spectrometer in Fusion starting from the .stl files that you can download. Instead of making the spectrometer a box with a top and bottom, it will be a tube. The design has a "diving board" that connects the main spectrometer to the collimator block. The diving board wasbolted to the box in the .stl files. I've incoprated it into the main tube. I've redesigned the collimator block to make it easier to print iwhtout supports.
 
 I tried printing the diving board, and I've made changes to it. Not sure if I'll print that part again, or just go for the whole thing. Printing the collimator block now.
+
+I need to figure out how to hold the slit in place. 
+Design the grating holder.
+Design the focus tube and the camera lens holder. I've already taken a first pass at the focuser, but it doesn't have a way to hold the lens.
+Count up the hardware necessary, and put some on order.
