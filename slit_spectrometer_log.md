@@ -37,5 +37,8 @@ Count up the hardware necessary, and put some on order.
 I've been working on the camera lens and focus mechanism. I have a design for that mechanism. I've printed the inner and outer tubes. The inner tube does not fit still.
 I put the camera lens into the Fusion model, so I think I have a good position for the focus. I want to verify that this focus position is correct using the QHY camera.
 
-On the slit side, I put the collimator lens into the model. The focus is far away from where I thought it would be. I looked at the Sol'Ex optics and the collimator lens has an 80 mm focal length. This explains why the focus in  model is 20 mm off.
-I've put a screen shot of the optics in the pictures at the beginning of this log for reference
+On the slit side, I put the collimator lens into the model. The focus is far away from where I thought it would be. I looked at the Sol'Ex optics and the collimator lens has an 80 mm focal length. 
+This explains why the focus in  model is 20 mm off. The focus position for the surplus lens I have should be ~94mm from the face of the optic.
+I've put a screen shot of the optics in the pictures at the beginning of this log for reference.
+
+I'll have to redesing the collimator block to accomodate the new focus position.
