@@ -53,3 +53,7 @@ smooth out the lens mating surface.
 
 The focuser inner tube does not fit very snuggly in the outer tube so it jiggles a little. This might be a problem for stability of the focus position. Even with it a little loose, the screw/spring focus mechanism can bind.
 This might also be a problem. I'd like to make the fit more snug. I think this focus adjustment will be set and forget, so it might still be usable. Concerned about the binding and the spring...
+
+I need to be better about only using the assembly drawing for part positioning, and then use a separate file to design the individual part. 
+The focuser/camera lens holder/grating interface is too complicated to design in the assembly drawing.
+The timeline is useful to go back and change things but the timeline in the assembly drawing is so long that I can't find operations in irder to modify them.
