@@ -41,4 +41,15 @@ On the slit side, I put the collimator lens into the model. The focus is far awa
 This explains why the focus in  model is 20 mm off. The focus position for the surplus lens I have should be ~94mm from the face of the optic.
 I've put a screen shot of the optics in the pictures at the beginning of this log for reference.
 
-I'll have to redesing the collimator block to accomodate the new focus position.
+I'll have to redesign the collimator block to accomodate the new focus position.
+
+12-30-24
+
+Yesterday, I redesigned that collimator block I made it about an inch longer.
+
+I tried a design of the camera lens/focuser assembly. I used a loft to connect the grating attachment to the focuser tube. I printed it in a way that needed supports. I don't like the results because the part that 
+comes into contact with the lens is not flat (due to the supports). I think that I could redesign in a way that would allow me to print in the other orientation and eliminate the need for supports. This would also 
+smooth out the lens mating surface. 
+
+The focuser inner tube does not fit very snuggly in the outer tube so it jiggles a little. This might be a problem for stability of the focus position. Even with it a little loose, the screw/spring focus mechanism can bind.
+This might also be a problem. I'd like to make the fit more snug. I think this focus adjustment will be set and forget, so it might still be usable. Concerned about the binding and the spring...
