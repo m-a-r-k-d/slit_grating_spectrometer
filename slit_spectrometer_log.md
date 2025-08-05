@@ -56,4 +56,18 @@ This might also be a problem. I'd like to make the fit more snug. I think this f
 
 I need to be better about only using the assembly drawing for part positioning, and then use a separate file to design the individual part. 
 The focuser/camera lens holder/grating interface is too complicated to design in the assembly drawing.
-The timeline is useful to go back and change things but the timeline in the assembly drawing is so long that I can't find operations in irder to modify them.
+The timeline is useful to go back and change things but the timeline in the assembly drawing is so long that I can't find operations in irder to modify them. (8-4-25 Note: this is definitely true!)
+
+8-4-25
+Lots of developments that I did not track here. I made the spectrometer, and I pointed it out the window and I was able to see the fraunhofer lines in the sunlight. That was pretty cool.
+
+Some highlights:
+I did not use the focuser that I was talking about in the 12-30-24 log entry. I redesigned the focuser that I've used on a couple of telescopes. I used a 1 mm thread for it (I think).
+
+I didn't make a holder for the slit. I just cut the slits out and mounted them under the two screws that would normally hold the mount for the slits. 
+
+I made a little curcuit that will flash a neon lamp, and I used that to to calibrate the sprectometer. I need to make a similar one for the Ar lamp I bought.
+
+I'm making a dovetail to support the telescope and the spectrometer. I had to print it in two parts since it needs to be almost two times the largest dimension of the printer.  Once the dovetail is printed, I can try testing the spectrometer on a star.
+
+I bought a flip mirror which hopefully I can use for positioning a star on the slit. It also takes up a bunch of the focus distance, so I don't need a bunch of adapters.
